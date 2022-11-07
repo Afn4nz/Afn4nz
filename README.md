@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" width="300"/>
 </div>
 <div id="hello" align="center">
   <h3>
-    Hi, I am Afnan :wave:.
+    Hi there, it's Afnan :wave:.
   </h3>
 </div>
 <div id="badges" align="center">

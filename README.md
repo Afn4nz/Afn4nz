@@ -3,7 +3,7 @@
 </div>
 <div id="hello" align="center">
   <h3>
-    Hi there, it's Afnan :wave:.
+    Hi, it's Afnan :wave:.
   </h3>
 </div>
 <div id="badges" align="center">
